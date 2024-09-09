@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadyant69
-- 👀 I’m interested in Data structures and SQLs
+- 👀 I’m interested in Data structures,DevOps and SQLs
 - 🌱 I’m currently learning to optimize high level programs.
 - 💞️ I’m looking to collaborate on group projects.
 - 📫 How to reach me aadyanttripathi19@outlook.com
