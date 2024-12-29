@@ -11,9 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Here's a clean and attractive README.md for your GitHub profile:
 
-Markdown
 
 Collapse
 <div align="center">
@@ -43,43 +41,35 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-🚀 What I'm Up To
-👀 I'm interested in Data Structures, DevOps and SQLs
-🌱 I'm currently learning to optimize high level programs
-💞️ I'm looking to collaborate on group projects
-📫 How to reach me: aadyanttripathi19@outlook.com
-🛠️ Tech Stack
-Java
-Python
-SQL
-Git
-GitHub
-VS Code
 
-📊 GitHub Stats
 
-🤝 Let's Connect
-Email: aadyanttripathi18@gmail.com
-GitHub: aadyant69
+# Hi there! 👋 I'm Aadyant
 
-GitHub Streak
+![Profile Views](https://komarev.com/ghpvc/?username=Aadyant69&color=brightgreen)
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Aadyant Tripathi"
-        self.role = "Software Engineer"
-        self.interests = ["Data Structures", "DevOps", "SQL"]
-        self.learning = "High Level Program Optimization"
-        self.email = "aadyanttripathi19@outlook.com"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's collaborate on something awesome!")
+## 👨‍💻 About Me
+- 👋 Hi, I'm @Aadyant69
+- 👀 I'm interested in Data structures, DevOps and SQLs
+- 🌱 I'm currently learning to optimize high level programs
+- 💞️ I'm looking to collaborate on group projects
+- 📫 How to reach me aadyanttripathi18@gmail.com
 
-me = SoftwareEngineer()
-me.say_hi()
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-<!---
-Aadyant69/Aadyant69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+![Aadyant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadyant69&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadyant69&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadyant69&theme=radical)
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadyanttripathi19@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadyant69)
